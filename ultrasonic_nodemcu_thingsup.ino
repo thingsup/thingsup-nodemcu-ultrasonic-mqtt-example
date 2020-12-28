@@ -2,7 +2,7 @@
 #include <WiFiClientSecureBearSSL.h>
 #include <PubSubClient.h>
 #include <time.h> 
-#include <ArduinoJson.h>                             // Ardiono JSON v6 Library
+#include <ArduinoJson.h>                             // Arduino JSON v6 Library
 
 // Update these with values suitable for your network.
 char* ssid = " ";                                   // WIFI SSID of network
